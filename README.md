@@ -1,5 +1,5 @@
 rules:
 
-  Base filters
+  #Base filters
   - DOMAIN-SUFFIX,faceit.com,Local
   - DOMAIN-SUFFIX,cybershoke.net,Local
